@@ -8,7 +8,7 @@
 I am Shivam Kumar, I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
 - 🔭 Working on my Problem solving and Intuition skills 
-- 🌱 Nurturing My C & C++ skills
+- 🌱 Nurturing My Problem Solvingskills
 - 🤔 Looking for help with my Mental Health website
 - 💬 Smile when ever you can,
 - 📫 Find me on: 
