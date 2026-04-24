@@ -1,17 +1,17 @@
 ‘’’<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;800%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+shivam+%F0%9F%91%8B;900%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+cool+stuff+with+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamkumar6299&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/shubhamkumar6299" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=shivamkumar&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/shivamkumar1828" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -23,9 +23,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
-const shubham = {
-    name: "Shubham Kumar",
-    role: "Full Stack Developer",
+const shivam = {
+    name: "Shivam Kumar",
+    role: "Backend Developer",
     location: "India 🇮🇳",
     available: true,
     skills: ["Web Dev", "DSA", "Problem Solving"],
@@ -44,39 +44,7 @@ const shubham = {
 
 ---
 
-## 🏆 Coding Achievements
 
-<div align="center">
-  
-  <!-- LeetCode Stats -->
-  <a href="https://leetcode.com/u/shubham_4518/">
-    <img src="https://img.shields.io/badge/LeetCode-817%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/shubham_codes/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-600%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- LeetCode Card -->
-  <a href="https://leetcode.com/u/shubham_4518/">
-    <img src="https://leetcard.jacoblin.cool/shubham_4518?theme=dark&font=Nunito&ext=heatmap" width="500" alt="LeetCode Stats"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- LeetCode Difficulty Breakdown -->
-  <img src="https://img.shields.io/badge/Easy-239-00B8A3?style=for-the-badge" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-461-FFC01E?style=for-the-badge" alt="Medium"/>
-  <img src="https://img.shields.io/badge/Hard-117-FF375F?style=for-the-badge" alt="Hard"/>
-  
-</div>
-
-<div align="center">
-  
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
-</div>
 
 ---
 
@@ -144,7 +112,7 @@ const shubham = {
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar6299&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajpoot7070&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -153,16 +121,9 @@ const shubham = {
 
 <div align="center">
   
-<a href="https://linkedin.com/in/shubhamkumar6299" target="_blank">
+<a href="https://linkedin.com/in/shivamkumar1828" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/u/shubham_4518/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/shubham_codes/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
-</a>
-
 </div>
 
 ---
