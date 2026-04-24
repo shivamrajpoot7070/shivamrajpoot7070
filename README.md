@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <!-- Animated Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
